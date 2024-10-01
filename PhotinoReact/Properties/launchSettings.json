@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PhotinoViteReact": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "FRONTEND_DEV_SERVER": "http://localhost:5173"
+      }
+    }
+  }
+}
